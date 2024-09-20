@@ -1,6 +1,4 @@
-# My Skills:
-
-|                       |
+|          # My Skills: |
 | --------------------: |
 |          2D Animation |
 |   Character designing |
