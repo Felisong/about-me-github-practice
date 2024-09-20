@@ -4,11 +4,11 @@
 
 My old family cat, Sethy. He has sadly since passed.
 
-![Sethy](images/Sethy.png)
+<img src="images/Sethy.png" width="300" height="auto" alt="Sethy">
 
 This is my boyfriends cat, whom I have now taken in as my own. You've likely seen her if you're viewing this!
 
-![Kinten](images/kinten1.jpg)
+<img src="images/kinten1.jpg" width="300" height="auto" alt="Kinten">
 
 I just wanted to show you my loves.
 
