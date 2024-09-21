@@ -14,4 +14,4 @@
 
 - [**Camp Snoopy**](https://tv.apple.com/us/show/camp-snoopy/umc.cmc.4erhnrmkf9vgeojl3uryxsc0j)
 
-  General 2D animator on this show. I hope to carry the skills I attained from this over to any future shows I may work on part time. I hope to aim to be a web developer from this point forward.
+  General 2D animator on this show. Likely my most exciting project considering the big name. I was working on it with ToonBoom Harmony as well, as it is the industry standard program to use. I am familiar with many programs, and am quick to learn.
